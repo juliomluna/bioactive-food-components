@@ -1,103 +1,110 @@
-Last login: Tue Feb 25 13:08:49 on ttys003
-┌─(~/Downloads)──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────(juliomluna@MacBook-Air-de-Julio:s004)─┐
-└─(13:01:32)──> ls -lrt                                                                                                                                               ──(Wed,Feb26)─┘
-total 421504
--rw-r--r--@  1 juliomluna  staff        162 May  7  2024 ~$Gpn3.docx
--rw-r--r--@  1 juliomluna  staff        165 May 14  2024 ~$cinetica_enzimatica_universitaria.pptx
--rw-r--r--@  1 juliomluna  staff        165 May 17  2024 ~$Purificación del DNA.pptx
--rw-r--r--@  1 juliomluna  staff        162 Jun  6  2024 ~$amen maestro 2 Bioquímica Unidad I.docx
--rw-r--r--@  1 juliomluna  staff        162 Jul 11  2024 ~$ Formato Membrete de Examen_Plan Cuatrimestral.doc
--rw-r--r--@  1 juliomluna  staff        162 Aug  8  2024 ~$vestigación de Polimorfismos - TMDD.docx
--rw-r--r--@  1 juliomluna  staff        162 Aug  9  2024 ~$amen Impresión Unidad III BQ B.docx
--rw-r--r--@  1 juliomluna  staff        162 Aug 14  2024 ~$tiÌ?culo_Julio_MunÌ?iz_Rev_NP_13ago2024.docx
--rw-r--r--@  1 juliomluna  staff        162 Oct 22 12:57 ~$rmacos que han sido descubiertos o desarrollados con el apoyo de técnicas de acoplamiento molecular.docx
-drwxr-xr-x@  9 juliomluna  staff        288 Nov  7 11:55 QRCodes
--rw-r--r--@  1 juliomluna  staff        162 Nov 19 11:52 ~$oyecto Estancia-Dulce María Pérez Rodríguez.docx
--rw-r--r--@  1 juliomluna  staff        162 Dec  2 11:06 ~$ckets crípticos en proteínas.docx
-drwxr-xr-x   5 juliomluna  staff        160 Feb 13 09:34 NG I
-drwxr-xr-x  20 juliomluna  staff        640 Feb 24 21:38 bioisosteros_28357
--rw-r--r--@  1 juliomluna  staff  215370215 Feb 25 22:36 Articulo_JAML et al última versión febrero 2025.docx
--rw-r--r--@  1 juliomluna  staff        162 Feb 25 22:36 ~$ticulo_JAML et al última versión febrero 2025.docx
-drwxr-xr-x  10 juliomluna  staff        320 Feb 26 11:48 Docking_HADDOCK_Feb_2025
--rw-r--r--@  1 juliomluna  staff     378156 Feb 26 11:49 cluster2_1.pdb
--rw-r--r--@  1 juliomluna  staff       7137 Feb 26 12:53 Structure2D_COMPOUND_CID_73399.sdf
-drwx------@  3 juliomluna  staff         96 Feb 26 12:59 GitHubDesktop-x64.zip.download
-┌─(~/Downloads)──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────(juliomluna@MacBook-Air-de-Julio:s004)─┐
-└─(13:01:33)──> vi Structure2D_COMPOUND_CID_73399.sdf                                                                                                                 ──(Wed,Feb26)─┘
+73399
+  -OEChem-02262513532D
 
+ 48 51  0     1  0  0  0  0  0999 V2000
+    4.6557    0.0355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7244    0.0355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6691    3.1624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4264   -4.1589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0074    4.6487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3834   -4.5714    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1945    0.5355    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.1945   -0.4645    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.2435    0.8445    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.1407   -0.7693    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.2435   -0.7736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1407    0.8402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9344    1.7955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4514   -1.7198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9563    2.0034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7836   -2.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6036    2.5387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4299   -1.9260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6473    2.9545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0942   -3.4146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2946    3.4897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7406   -2.8765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3164    3.6976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0727   -3.6208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.4193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7370   -5.1094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1956    1.3854    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1956   -1.3146    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6311    0.9415    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7532   -0.8655    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7065   -1.0836    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4956   -1.3400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6781    1.1494    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8897    1.4071    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5414    1.5427    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1769   -2.3362    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2100    2.4098    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8440   -1.4646    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7094    3.9505    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3472   -3.0044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4222    5.1094    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9901   -4.6992    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5392    2.8341    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5851    1.9585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4608    2.0044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1477   -5.3021    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9296   -5.6988    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3264   -4.9168    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 20  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 23  1  0  0  0  0
+  5 41  1  0  0  0  0
+  6 24  1  0  0  0  0
+  6 42  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 27  1  6  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 28  1  6  0  0  0
+  9 13  1  6  0  0  0
+  9 29  1  0  0  0  0
+ 10 14  1  6  0  0  0
+ 10 30  1  0  0  0  0
+ 11 31  1  0  0  0  0
+ 11 32  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 12 34  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 36  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 17 37  1  0  0  0  0
+ 18 22  2  0  0  0  0
+ 18 38  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 20 24  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 39  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 40  1  0  0  0  0
+ 25 43  1  0  0  0  0
+ 25 44  1  0  0  0  0
+ 25 45  1  0  0  0  0
+ 26 46  1  0  0  0  0
+ 26 47  1  0  0  0  0
+ 26 48  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+73399
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> <PUBCHEM_TOTAL_CHARGE>
-0
-
-> <PUBCHEM_HEAVY_ATOM_COUNT>
-26
-
-> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
-4
-
-> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
-0
-
-> <PUBCHEM_BOND_DEF_STEREO_COUNT>
-0
-
-> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
-0
-
-> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
-0
-
-> <PUBCHEM_COMPONENT_COUNT>
+> <PUBCHEM_COMPOUND_CANONICALIZED>
 1
 
-> <PUBCHEM_CACTVS_TAUTO_COUNT>
--1
-
-> <PUBCHEM_COORDINATE_TYPE>
-1
-5
-255
-
-> <PUBCHEM_BONDANNOTATIONS>
-10  14  6
-13  15  8
-13  17  8
-14  16  8
-14  18  8
-15  19  8
-16  20  8
-17  21  8
-18  22  8
-19  23  8
-20  24  8
-21  23  8
-22  24  8
-7  27  6
-8  28  6
-9  13  6
-
-$$$$
